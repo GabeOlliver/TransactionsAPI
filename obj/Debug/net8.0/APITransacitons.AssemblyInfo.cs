@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("APITransacitons")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e7a6cf2751622b8220b4ba2d5f0c0442dd41d567")]
 [assembly: System.Reflection.AssemblyProductAttribute("APITransacitons")]
 [assembly: System.Reflection.AssemblyTitleAttribute("APITransacitons")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

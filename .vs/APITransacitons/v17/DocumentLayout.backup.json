@@ -5,14 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{DE4ED5E8-3BDE-49FE-B980-1EE40D78724F}|APITransacitons.csproj|c:\\users\\gabri\\documents\\stdaspnet\\introdu\u00E7\u00E3o\\apitransacitons\\controllers\\subjectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DE4ED5E8-3BDE-49FE-B980-1EE40D78724F}|APITransacitons.csproj|solutionrelative:controllers\\subjectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE4ED5E8-3BDE-49FE-B980-1EE40D78724F}|APITransacitons.csproj|c:\\users\\gabri\\documents\\stdaspnet\\introdu\u00E7\u00E3o\\apitransacitons\\services\\subject\\subjectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE4ED5E8-3BDE-49FE-B980-1EE40D78724F}|APITransacitons.csproj|solutionrelative:services\\subject\\subjectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE4ED5E8-3BDE-49FE-B980-1EE40D78724F}|APITransacitons.csproj|c:\\users\\gabri\\documents\\stdaspnet\\introdu\u00E7\u00E3o\\apitransacitons\\services\\subject\\subjectinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE4ED5E8-3BDE-49FE-B980-1EE40D78724F}|APITransacitons.csproj|solutionrelative:services\\subject\\subjectinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,34 +24,10 @@
               "RelativeDocumentMoniker": "Controllers\\SubjectController.cs",
               "ToolTip": "C:\\Users\\gabri\\Documents\\stdAspNet\\introdu\u00E7\u00E3o\\APITransacitons\\Controllers\\SubjectController.cs",
               "RelativeToolTip": "Controllers\\SubjectController.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAUwCYAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAACYAAAAAAAAAAAAqwEgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T17:18:47.53Z",
+              "WhenOpened": "2025-09-10T16:06:59.839Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SubjectInterface.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\Documents\\stdAspNet\\introdu\u00E7\u00E3o\\APITransacitons\\Services\\Subject\\SubjectInterface.cs",
-              "RelativeDocumentMoniker": "Services\\Subject\\SubjectInterface.cs",
-              "ToolTip": "C:\\Users\\gabri\\Documents\\stdAspNet\\introdu\u00E7\u00E3o\\APITransacitons\\Services\\Subject\\SubjectInterface.cs",
-              "RelativeToolTip": "Services\\Subject\\SubjectInterface.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T17:14:52.085Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SubjectService.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\Documents\\stdAspNet\\introdu\u00E7\u00E3o\\APITransacitons\\Services\\Subject\\SubjectService.cs",
-              "RelativeDocumentMoniker": "Services\\Subject\\SubjectService.cs",
-              "ToolTip": "C:\\Users\\gabri\\Documents\\stdAspNet\\introdu\u00E7\u00E3o\\APITransacitons\\Services\\Subject\\SubjectService.cs",
-              "RelativeToolTip": "Services\\Subject\\SubjectService.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAiwCEAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T17:14:01.027Z"
             }
           ]
         }

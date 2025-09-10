@@ -136,3 +136,4 @@ C:\Users\gabri\Documents\stdAspNet\introdução\APITransacitons\bin\Debug\net8.0
 C:\Users\gabri\Documents\stdAspNet\introdução\APITransacitons\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\gabri\Documents\stdAspNet\introdução\APITransacitons\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\gabri\Documents\stdAspNet\introdução\APITransacitons\obj\Debug\net8.0\APITransacitons.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\gabri\Documents\stdAspNet\introdução\APITransacitons\obj\Debug\net8.0\APITransacitons.sourcelink.json
